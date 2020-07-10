@@ -1,0 +1,2 @@
+# tryhcaptcha
+mine rules only
